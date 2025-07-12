@@ -1,0 +1,21 @@
+
+
+
+
+button{
+    margin-top: 4%;
+}
+#button:hover{
+   color: rgb(91, 186, 241); 
+}
+.card:hover{
+    background-color: #eee;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px  gray;
+}
+#contact{
+background-color:rgb(243, 243, 248);
+}
+#div{
+    width: 1300px;
+}
